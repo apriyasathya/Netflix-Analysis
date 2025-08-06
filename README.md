@@ -1,0 +1,1 @@
+This Entity-Relationship (ER) diagram represents the data model used in the Netflix data analysis project. It outlines the key entities such as Customers, Movies, Ratings, and Subscriptions, along with their attributes and relationships. The diagram serves as the foundation for understanding data flow and helps in building efficient queries and dashboards in Power BI.
